@@ -1,2 +1,2 @@
-# starting point
+# Starting point
 Starting by the first step
